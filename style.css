@@ -11,3 +11,22 @@ nav {
 h2 {
     margin-top: 0
 }
+
+aside { 
+    border-left: 4px solid #f59e0b;
+    padding-left: 20px;
+}
+
+.project-card { 
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+}
+
+table { 
+    border: 1px solid #cbd5e1;
+
+}
+
+image { 
+    border-radius: 6px
+}
